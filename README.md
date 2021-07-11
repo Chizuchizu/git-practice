@@ -1,6 +1,6 @@
 
 ## lazygit
 
-c: commit(File)
-M: Merge
+c: commit(File)  
+M: Merge  
 P: Push
